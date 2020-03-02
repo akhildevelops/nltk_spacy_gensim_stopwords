@@ -2,6 +2,11 @@
 
 ### Union of all Stop Words from the three popular libraries.
 
-## [NLTK](https://www.nltk.org/)
-## [Spacy](https://spacy.io/)
-## [Gensim](https://radimrehurek.com/gensim/)
+### Total Stop Words
+## [NLTK](https://www.nltk.org/) => 179
+## [Spacy](https://spacy.io/) => 326
+## [Gensim](https://radimrehurek.com/gensim/) => 337
+
+## Stop Words Visual:
+
+![Stop Words](./stop_words_set.png)
