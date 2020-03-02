@@ -1,6 +1,6 @@
-# nltk_spacy_gensim_stopwords
+# NLTK, SPACY, GENSIM Stop Words List
 
-### Union of all the Stop_Words from the three popular libraries.
+### Union of all the Stop Words from the three popular libraries.
 
 ## [NLTK](https://www.nltk.org/)
 ## [Spacy](https://spacy.io/)
